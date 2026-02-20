@@ -1,0 +1,4 @@
+# file: /home/wgottsch/repo/gameofspec/src/game/controls/events.py
+# hypothesis_version: 6.151.9
+
+['cell_click', 'clear_grid', 'decrease', 'increase', 'pause', 'quit_request', 'simulation_control', 'speed_change', 'start', 'stop', 'toggle']
