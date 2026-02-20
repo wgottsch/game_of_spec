@@ -1,0 +1,4 @@
+# file: /home/wgottsch/repo/gameofspec/src/game/config/logging_config.py
+# hypothesis_version: 6.151.9
+
+['%H:%M:%S', 'game']

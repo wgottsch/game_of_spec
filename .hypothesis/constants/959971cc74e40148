@@ -1,0 +1,4 @@
+# file: /home/wgottsch/repo/gameofspec/src/game/core/simulation.py
+# hypothesis_version: 6.151.9
+
+[1000, 'SimulationState', 'paused', 'running', 'stopped']

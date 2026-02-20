@@ -1,0 +1,11 @@
+# mise configuration — manages Python version and developer tools
+# Install mise: https://mise.jdx.dev/getting-started.html
+# Usage: `mise install` to provision everything
+
+[tools]
+python = "3.11"
+uv = "latest"
+
+[env]
+# uv will automatically use .venv in the project root
+UV_PROJECT_ENVIRONMENT = ".venv"

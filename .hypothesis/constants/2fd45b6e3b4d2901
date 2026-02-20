@@ -1,0 +1,4 @@
+# file: /home/wgottsch/repo/gameofspec/src/game/controls/__init__.py
+# hypothesis_version: 6.151.9
+
+['ControlAction', 'InputEvent', 'InputEventType', 'SpeedAction']

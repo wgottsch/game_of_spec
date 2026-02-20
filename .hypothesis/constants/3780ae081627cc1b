@@ -1,0 +1,4 @@
+# file: /home/wgottsch/repo/gameofspec/src/game/config/settings.py
+# hypothesis_version: 6.151.9
+
+[120, 200, 1000, 5000, 'after', 'frozen', 'validate_assignment']
