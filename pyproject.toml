@@ -8,8 +8,8 @@ version = "0.1.0"
 description = "Conway's Game of Life with pygame visualization"
 requires-python = ">=3.11"
 dependencies = [
-    "pygame>=2.5.0",
     "pydantic>=2.0.0",
+    "pygame-ce>=2.5.7",
 ]
 
 [dependency-groups]
